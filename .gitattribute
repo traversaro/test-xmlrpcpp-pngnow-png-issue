@@ -1,0 +1,2 @@
+*.png                           binary
+extern/xmlrpcpp/xmlrpcpp/test/pngnow.png text eol=crlf
